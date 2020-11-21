@@ -16,9 +16,9 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "/images/favicon.ico"
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Utah Amateur Radio Club"
   facebook = "https://www.facebook.com/UtahAmateurRadioClub/"
   twitter = ""
   instagram = ""
@@ -34,3 +34,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/Antenna-Farm.jpg"
   recent_posts_number = 2
+  custom_css = ["css/custom.css"]

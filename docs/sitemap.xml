@@ -3,13 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/posts/dec-mtg/</loc>
+    <lastmod>2020-11-13T13:09:36-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/posts/</loc>
+    <lastmod>2020-11-13T13:09:36-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/</loc>
+    <lastmod>2020-11-13T13:09:36-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/posts/nov-mtg/</loc>
+    <lastmod>2020-10-29T12:36:25-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mr-cade.github.io/uarc-rebuild/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/atv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/books/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mr-cade.github.io/uarc-rebuild/benefits/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/by-laws/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,7 +73,43 @@
   </url>
   
   <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/elmers/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/remote/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mr-cade.github.io/uarc-rebuild/joining/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/irlp/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/lending/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/mtglocation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/shop/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,7 +121,13 @@
   </url>
   
   <url>
-    <loc>https://mr-cade.github.io/uarc-rebuild/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/uarc-repeaters/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/utah-repeaters/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
